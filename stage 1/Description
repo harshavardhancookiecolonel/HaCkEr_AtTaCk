@@ -1,0 +1,12 @@
+School members
+Description
+Create the person table and fill it with data from the person.csv file. This table contains teachers and students.
+
+Objectives
+Let's break the task into several steps:
+
+Create the person table;
+Change the mode to csv;
+Import data from person.csv to the person table;
+Change the mode to column;
+Select the person_id and full_name fields from the person table. Sort the results by person_id in ascending order. Limit the results to 5;
