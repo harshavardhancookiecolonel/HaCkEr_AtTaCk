@@ -30,13 +30,21 @@ Example 1:
 Output:
 
 person_id  full_name
+
 ---------  --------------
+
 DC-711801  Adrian Anthony
+
 BA-441588  Adrian Rowe
+
 EF-444609  Andrea Hubbard
+
 CG-998149  Andrew Wilson
+
 FE-915587  Andrew Wood
 
 COUNT(person_id)
+
 ----------------
+
 90
